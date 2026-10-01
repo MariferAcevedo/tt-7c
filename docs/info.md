@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+It is a puzzle with 8 inputs and user have to try different combinations to activate the output to one.
 
 ## How to test
 
-Explain how to use your project
+Activate and deactivate inputs until you could see the output activated, for example lighting a LED.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED and 8 input switch.
